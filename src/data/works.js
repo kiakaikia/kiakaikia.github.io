@@ -4,7 +4,7 @@ export default [
     {
         title: 'Portfolio',
         imgUrl: logo,
-        tech: ['JSX', 'HTML', 'React', 'JS'],
+        tech: ['HTML', 'CSS', 'JS/React', 'JSX'],
         workUrl: 'https://kiakaikia.github.io/'
     },
     {
