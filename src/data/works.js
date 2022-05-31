@@ -1,5 +1,5 @@
 import logo from './media/Portfolio.png'
-
+import logo2 from './media/note_taking.png'
 export default [
     {
         title: 'Portfolio',
@@ -9,8 +9,8 @@ export default [
     },
     {
         title: 'Note Taking',
-        imgUrl: logo,
+        imgUrl: logo2,
         tech: ['HTML', 'CSS', 'JS', 'Flask/Python'],
-        workUrl: 'https://kiakaikia.github.io/'
+        workUrl: 'https://github.com/kiakaikia/Notetaking'
     }
 ]
